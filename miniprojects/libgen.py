@@ -30,14 +30,13 @@ rows = table.find_all('tr')[1:]
 book_data = []
 for row in rows:
     columns = row.find_all('td')
-    if len(columns) >= 10:
-        title = wrap_text(columns[2].text.strip(), width=50)
-        author = wrap_text(columns[1].text.strip(), width=20)
-        year = columns[4].text.strip()
-        link_1 = columns[9].find('a')['href'] if columns[9].find('a') else "N/A"
-        link_2 = columns[10].find('a')['href'] if columns[10].find('a') else "N/A"
-        download_links = f"{link_1}\n{link_2}"
-        book_data.append([title, author, year,download_links])
+    title = wrap_text(columns[2].text.strip(), width=50)
+    author = wrap_text(columns[1].text.strip(), width=20)
+    year = columns[4].text.strip()
+    link_1 = columns[9].find('a')['href'] if columns[9].find('a') else "N/A"
+    link_2 = columns[10].find('a')['href'] if columns[10].find('a') else "N/A"
+    download_links = f"{link_1}\n{link_2}"
+    book_data.append([title, author, year,download_links])
 
 # Use tabulate to print the table
 print(tabulate(book_data, headers=["Title", "Author", "Year","Download"], tablefmt="grid"))
