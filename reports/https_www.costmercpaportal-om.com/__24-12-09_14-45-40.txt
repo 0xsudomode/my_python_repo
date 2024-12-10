@@ -1,0 +1,28 @@
+# Dirsearch started Mon Dec  9 14:47:08 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u https://www.costmercpaportal-om.com/
+
+404    52B   https://www.costmercpaportal-om.com/.well-known/acme-challenge
+404    85B   https://www.costmercpaportal-om.com/.well-known/acme-challenge/dtfy
+307    15B   https://www.costmercpaportal-om.com/_logs/    -> REDIRECTS TO: https://vercel.com/deployments/www.costmercpaportal-om.com/logs
+307    15B   https://www.costmercpaportal-om.com/_logs    -> REDIRECTS TO: https://vercel.com/deployments/www.costmercpaportal-om.com/logs
+307    15B   https://www.costmercpaportal-om.com/_logs/access-log    -> REDIRECTS TO: https://vercel.com/deployments/www.costmercpaportal-om.com/logs
+307    15B   https://www.costmercpaportal-om.com/_logs/access.log    -> REDIRECTS TO: https://vercel.com/deployments/www.costmercpaportal-om.com/logs
+307    15B   https://www.costmercpaportal-om.com/_logs/access_log    -> REDIRECTS TO: https://vercel.com/deployments/www.costmercpaportal-om.com/logs
+307    15B   https://www.costmercpaportal-om.com/_logs/err.log    -> REDIRECTS TO: https://vercel.com/deployments/www.costmercpaportal-om.com/logs
+307    15B   https://www.costmercpaportal-om.com/_logs/error-log    -> REDIRECTS TO: https://vercel.com/deployments/www.costmercpaportal-om.com/logs
+307    15B   https://www.costmercpaportal-om.com/_logs/error.log    -> REDIRECTS TO: https://vercel.com/deployments/www.costmercpaportal-om.com/logs
+307    15B   https://www.costmercpaportal-om.com/_logs/error_log    -> REDIRECTS TO: https://vercel.com/deployments/www.costmercpaportal-om.com/logs
+307    15B   https://www.costmercpaportal-om.com/_src    -> REDIRECTS TO: https://vercel.com/deployments/www.costmercpaportal-om.com/source
+308    15B   https://www.costmercpaportal-om.com/axis//happyaxis.jsp    -> REDIRECTS TO: /axis/happyaxis.jsp
+308    15B   https://www.costmercpaportal-om.com/axis2//axis2-web/HappyAxis.jsp    -> REDIRECTS TO: /axis2/axis2-web/HappyAxis.jsp
+308    15B   https://www.costmercpaportal-om.com/axis2-web//HappyAxis.jsp    -> REDIRECTS TO: /axis2-web/HappyAxis.jsp
+308    15B   https://www.costmercpaportal-om.com/Citrix//AccessPlatform/auth/clientscripts/cookies.js    -> REDIRECTS TO: /Citrix/AccessPlatform/auth/clientscripts/cookies.js
+308    15B   https://www.costmercpaportal-om.com/engine/classes/swfupload//swfupload.swf    -> REDIRECTS TO: /engine/classes/swfupload/swfupload.swf
+308    15B   https://www.costmercpaportal-om.com/engine/classes/swfupload//swfupload_f9.swf    -> REDIRECTS TO: /engine/classes/swfupload/swfupload_f9.swf
+308    15B   https://www.costmercpaportal-om.com/extjs/resources//charts.swf    -> REDIRECTS TO: /extjs/resources/charts.swf
+200   118KB  https://www.costmercpaportal-om.com/favicon.ico
+308    15B   https://www.costmercpaportal-om.com/html/js/misc/swfupload//swfupload.swf    -> REDIRECTS TO: /html/js/misc/swfupload/swfupload.swf
+200   508B   https://www.costmercpaportal-om.com/manifest.json
+200    67B   https://www.costmercpaportal-om.com/robots.txt
+404    39B   https://www.costmercpaportal-om.com/static/api/swagger.json
+404    39B   https://www.costmercpaportal-om.com/static/api/swagger.yaml
+404    39B   https://www.costmercpaportal-om.com/static/dump.sql
