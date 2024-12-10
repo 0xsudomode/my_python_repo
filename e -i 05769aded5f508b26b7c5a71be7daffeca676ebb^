@@ -1,0 +1,47 @@
+[33mcommit 9fba485d22704e859e5ef0c33c8e8ed8d45c5b2f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Abdelhamid <abdelhamidaghamir@gmail.com>
+Date:   Tue Dec 10 08:26:50 2024 -0600
+
+    added g00gle scraper example - works for scraping the first page only
+
+[33mcommit f6ec49868ba813031143851b73adec739fbb0d63[m
+Author: Abdelhamid <abdelhamidaghamir@gmail.com>
+Date:   Tue Dec 10 06:53:13 2024 -0600
+
+    added BeauitulSoup example
+
+[33mcommit 971496c2c73c7f7819512ae49c11ce733162934a[m
+Author: Abdelhamid <abdelhamidaghamir@gmail.com>
+Date:   Mon Dec 9 12:44:47 2024 -0600
+
+    adding code for json web token manipulation.
+
+[33mcommit f09c3ffef9d88e49f37e9a79d027fefc9aec6741[m
+Author: Abdelhamid <abdelhamidaghamir@gmail.com>
+Date:   Mon Dec 9 01:06:16 2024 -0600
+
+    coding a very basic helper to download pdf from libgen
+
+[33mcommit 60168e85a012f63b682212f8a4d28bd33dcc3941[m
+Author: Abdelhamid <abdelhamidaghamir@gmail.com>
+Date:   Mon Dec 9 00:17:20 2024 -0600
+
+    added OS basic usage, and wiki for functions to study
+
+[33mcommit bdc212b79e24787cd396fff2db4591415d7ec658[m
+Author: Abdelhamid <abdelhamidaghamir@gmail.com>
+Date:   Sun Dec 8 23:58:57 2024 -0600
+
+    adding a minimalistic client using socket in python.
+
+[33mcommit bc8288ca60944242455eaaf518a08a6ef576e538[m
+Author: Abdelhamid <abdelhamidaghamir@gmail.com>
+Date:   Sun Dec 8 23:53:23 2024 -0600
+
+    coding a minimalistic python server using socket.
+
+[33mcommit 05769aded5f508b26b7c5a71be7daffeca676ebb[m
+Author: kali <kali@kali.Home>
+Date:   Sun Dec 8 23:31:17 2024 -0600
+
+    Initial commit
