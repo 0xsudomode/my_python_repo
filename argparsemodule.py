@@ -8,6 +8,7 @@ def add_two(num1,num2):
 
 parser = argparse.ArgumentParser(description='adding two numbers nothing fnacy :p')
 
+# metavar just to give us a clean output
 parser.add_argument('-n1','--number1',type=int, metavar= '', required=True, help='enter the first number')
 parser.add_argument('-n2','--number2',type=int, metavar= '', required=True, help='enter the second number')
 
@@ -15,4 +16,3 @@ args = parser.parse_args()
 
 if __name__ == '__main__':
     print(add_two(args.number1,args.number2))
-    #print(args)
